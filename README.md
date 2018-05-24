@@ -1,0 +1,1 @@
+# Whud-speches-claccivikatn-using-ANN-hand-SVM
